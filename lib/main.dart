@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
                 Card(
-                  margin: EdgeInsets.symmetric(
+                  margin: EdgeInsets.sy metric(
                   vertical: 12.0,
                   horizontal: 23.0),
                   child: ListTile(
@@ -48,6 +48,7 @@ class MyApp extends StatelessWidget {
                     title: Text('0862832441'),
                   ),
                 ),
+
                 Card(
                   margin: EdgeInsets.symmetric(
                   vertical: 12.0,
